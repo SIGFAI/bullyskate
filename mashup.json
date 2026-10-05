@@ -4,11 +4,11 @@
   "name": "BullySkate",
   "tagline": "Skate 3's skating in Bully: Scholarship Edition: flick-it tricks, grinds, manuals and skitching anywhere in Bullworth, built from your own Skate 3 files.",
   "how_to_play": [
-    "Skate anywhere in Bullworth as Jimmy with Skate 3's tricks, grinds, manuals and skitching.",
-    "Load your save, stand on foot and press Right stick click + D-pad Down (or F6) to get on the board.",
-    "Left stick steers, A pushes, B brakes, right-stick gestures do ollies, flips and manuals, LT/RT grab.",
-    "Y gets off the board; hold RB close behind a car to skitch.",
-    "R3 + D-pad Left (F8) opens the Skate menu; R3 + D-pad Down (F5) goes back to Bully."
+    "Skate anywhere in Bullworth as Jimmy, on a skateboard with Skate 3's physics, tricks, grinds and sounds.",
+    "To start, run BullySkate\\BullySkateLauncher.exe in your Bully folder. Once Bully is up, load your save and stand on foot.",
+    "Press Right stick click + D-pad Down (or F6) to skate. A controller is recommended.",
+    "Left stick steers, A pushes, B brakes, right-stick gestures do ollies, flips and manuals, LT/RT grab, Y gets off the board.",
+    "Hold RB close behind a car to skitch. R3 + D-pad Left (F8) opens the Skate menu; R3 + D-pad Down (F5) goes back to Bully."
   ],
   "kind": "mashup",
   "games": [
@@ -2943,9 +2943,7 @@
   "status": "beta",
   "issues": "https://github.com/Faiqie/BullySkate/issues",
   "notes": [
-    "How it works: you play Bully as Jimmy and switch onto a skateboard with Skate 3's physics, tricks, grinds and sounds anywhere in Bullworth. Your own Skate 3 files are converted on your PC.",
-    "To start: run BullySkate\\BullySkateLauncher.exe in your Bully folder. First run: pick Bully.exe (Steam: Manage > Browse local files), then Skate 3's default.xex; setup takes a few minutes, then Bully starts. Load your save, stand on foot, press Right stick click + D-pad Down (or F6) to skate.",
-    "Controls (controller recommended): left stick steers, A pushes, B brakes, right-stick gestures do ollies, flips and manuals, LT/RT grab, Y gets off the board, hold RB close behind a car to skitch. R3 + D-pad Left (F8) opens the Skate menu; R3 + D-pad Down (F5) goes back to Bully.",
+    "First run of BullySkateLauncher.exe: pick Bully.exe (Steam: Manage > Browse local files), then Skate 3's default.xex; your own Skate 3 files are converted on your PC (a few minutes), then Bully starts.",
     "You need Bully: Scholarship Edition for Windows 1.200 (Steam or patched retail), an Xbox or PlayStation controller, and your own Skate 3 for Xbox 360 extracted to a folder (default.xex next to its data folder; no ISO). Install Derpy's Script Loader 15.3 and the DirectX June 2010 runtime first.",
     "Restore removes only the BullySkate folder. Run BullySkate\\Disable.cmd before Restore to turn the mod off, then delete BullySkate.asi (Bully folder) and %LOCALAPPDATA%\\BullySkate by hand to remove it fully. Setup.cmd in that folder picks different game files.",
     "Single player only. Beta with open setup bugs (some Steam copies reported incompatible, sound runtime): report bugs to the author with the Report a bug link."
