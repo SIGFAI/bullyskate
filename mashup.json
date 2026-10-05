@@ -3,6 +3,13 @@
   "version": "0.1.2",
   "name": "BullySkate",
   "tagline": "Skate 3's skating in Bully: Scholarship Edition: flick-it tricks, grinds, manuals and skitching anywhere in Bullworth, built from your own Skate 3 files.",
+  "how_to_play": [
+    "Skate anywhere in Bullworth as Jimmy with Skate 3's tricks, grinds, manuals and skitching.",
+    "Load your save, stand on foot and press Right stick click + D-pad Down (or F6) to get on the board.",
+    "Left stick steers, A pushes, B brakes, right-stick gestures do ollies, flips and manuals, LT/RT grab.",
+    "Y gets off the board; hold RB close behind a car to skitch.",
+    "R3 + D-pad Left (F8) opens the Skate menu; R3 + D-pad Down (F5) goes back to Bully."
+  ],
   "kind": "mashup",
   "games": [
     {
