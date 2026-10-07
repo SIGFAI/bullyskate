@@ -48,6 +48,15 @@
       "note": "your own Skate 3 for Xbox 360, extracted to a folder that keeps default.xex next to its data folder (an ISO is not read directly)"
     }
   ],
+  "requires_files": [
+    {
+      "id": "derpy-script-loader",
+      "game": "bully",
+      "path": "{game}/derpy_script_loader.asi",
+      "message": "Install Derpy's Script Loader 15.3 into the Bully folder first",
+      "page": "https://www.nexusmods.com/bullyscholarshipedition/mods/43"
+    }
+  ],
   "install": [
     {
       "game": "bully",
